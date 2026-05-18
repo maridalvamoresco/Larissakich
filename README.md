@@ -1,4 +1,4 @@
-# ![alt text](image.png) Maridalva
+# Maridalva
 
 **`Estudante de Ciências de Dados`**
 
